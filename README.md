@@ -1,5 +1,5 @@
 # Blinken
-Unreal Engine 4 (UE4) plugin to control accessory lighting (Razer Chroma, Alienware AlienFX, Logitech G)
+Unreal Engine 4 (UE4) plugin to control accessory lighting (Alienware AlienFX)
 
 # Licenses
 
