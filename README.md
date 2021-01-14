@@ -4,9 +4,9 @@ Unreal Engine 4 (UE4) plugin to control accessory lighting (Razer Chroma, Alienw
 # Licenses
 
 See the LICENSE file for license for all files, except for files in the ThirdParty directory which are covered by other licenses:
-* Razer Chroma SDK covered by license at http://developer.razerzone.com/chroma/
+
 * Alienwave AlienFX SDK covered by license at http://www.alienware.com/landings/alienfx/
-* Logitech G LED Illumunation SDK covered by license at http://gaming.logitech.com/en-us/developers
+
 
 # Usage
 
@@ -32,7 +32,6 @@ See the LICENSE file for license for all files, except for files in the ThirdPar
 1. Set colors on individual devices independently
 2. Set individual key lighting on devices which support it, perhaps with layers where removing layer X lighting will return the keys to the previous layer's colors
 3. Allow access to vendor SDK specific features - perhaps via interfaces obtainable that map directly to each SDK 
-4. Add support for more hardware via more SDKs.  Examples:
-   1. Roccat TalkFX (tho it seems to also support AlienFX): http://www.roccat.org/en-US/Products/Gaming-Software/Talk-FX/
-   2. Corsair CUE: http://www.corsair.com/en-us/support/downloads
+
+
 
